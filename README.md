@@ -27,6 +27,7 @@ Configurable model settings (model name, temperature, max tokens) via applicatio
 - Spring Boot Framework
 - Spring AI (OpenAI Model)
 - JavaScript & REACT
+- REST API
 
 ## Services Details
 
