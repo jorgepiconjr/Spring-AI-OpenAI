@@ -28,6 +28,7 @@ Configurable model settings (model name, temperature, max tokens) via applicatio
 - Spring AI (OpenAI Model)
 - JavaScript & REACT
 - REST API
+- Model–view–controller (MVC) architecture
 
 ## Services Details
 
