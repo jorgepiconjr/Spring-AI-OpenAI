@@ -1,4 +1,4 @@
-# Java Spring AI - Full Stack Project
+# Java Spring AI - _Full Stack Project_
 
 Java Spring Boot app using Spring AI Framework (OpenAI Model), exposing a clean REST API (controller–service) for chat, image generation, and cuisine recipe creation, paired with a JavaScript/React front-end User Interface.
 
